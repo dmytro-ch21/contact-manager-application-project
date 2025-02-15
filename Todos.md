@@ -13,14 +13,23 @@
 - [X] Break down all pages that are need and place them in its own directories
 
 - [ ] Implement all pages
+    - [X] Navbar shows only needed links
     - [X] Signup
+        - [X] Implement Signup - create new user
     - [X] Login
+        - [X] Implemet Login - fetch existing user
+        - [X] Implement Fetch Contacts on Successful Login
     - [ ] Home
-        - [ ] ContactList
-            - [ ] ContactCard
-    - [ ] Favorites
+        - [X] ContactList
+            - [X] ContactCard
+        - [X] Add to protected route   
+        - [ ] Delete Contact
+        - [ ] Edit Contact
+    - [X] Favorites
+        - [X] Implement logic to handle favovirites
     - [ ] AddContact
     - [ ] Contact Profile
+
 
 -[ ] Integrate API
     - [ ] Login - GET: /api/user/email/:email

@@ -67,7 +67,7 @@ export const initialState = () => ({
       country: "USA",
       email: "john.doe@example.com",
       full_name: "John Doe",
-      id: 11,
+      id: 12,
       is_favorite: false,
       phone_number: "123-456-7890"
     }
